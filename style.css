@@ -1006,8 +1006,3 @@ h4 {
 .col-sm-12 p{
     color: #FFFFFF!important;
 }
-img {
-    aspect-ratio: 16 / 9;
-    width: 100%;
-    object-fit: cover;
-  }
