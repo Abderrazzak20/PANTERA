@@ -272,8 +272,6 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    width: 22rem;
-    height: 4rem;
 }
 
 .navbar-brand img[src$=svg] {
