@@ -740,7 +740,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1007,4 +1007,8 @@ h4 {
 }
 .col-sm-12 p{
     color: #FFFFFF!important;
+}
+.citazione{
+    font-weight: bold;
+    font-style: italic;
 }
