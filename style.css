@@ -189,7 +189,7 @@ a:hover {
 }
 
 .navbar-brand img[src$=svg] {
-    min-width: 100px
+    min-width: 100%
 }
 
 .nav-center .navbar-brand img {
@@ -376,7 +376,7 @@ p {
 }
 
 .container {
-    max-width: 1000px
+    max-width: 1000%
 }
 
 .hero-bloc-text {
@@ -388,7 +388,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 100%;
     margin: auto auto auto auto
 }
 
