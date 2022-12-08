@@ -703,3 +703,6 @@ h1, h2, h3, h4, h5, h6, p, label, .btn, a {
     font-weight: 400;
     color: #323224!important;
 }
+.form-group .form-control{
+    width: 100%;
+}
